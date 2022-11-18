@@ -1,0 +1,15 @@
+E:\MDT211\Second_HomeworkDataStruct\bin\Debug\net6.0\Second_HomeworkDataStruct.exe
+E:\MDT211\Second_HomeworkDataStruct\bin\Debug\net6.0\Second_HomeworkDataStruct.deps.json
+E:\MDT211\Second_HomeworkDataStruct\bin\Debug\net6.0\Second_HomeworkDataStruct.runtimeconfig.json
+E:\MDT211\Second_HomeworkDataStruct\bin\Debug\net6.0\Second_HomeworkDataStruct.dll
+E:\MDT211\Second_HomeworkDataStruct\bin\Debug\net6.0\Second_HomeworkDataStruct.pdb
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.csproj.AssemblyReference.cache
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.AssemblyInfoInputs.cache
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.AssemblyInfo.cs
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.csproj.CoreCompileInputs.cache
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.dll
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\refint\Second_HomeworkDataStruct.dll
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.pdb
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\Second_HomeworkDataStruct.genruntimeconfig.cache
+E:\MDT211\Second_HomeworkDataStruct\obj\Debug\net6.0\ref\Second_HomeworkDataStruct.dll
