@@ -6,12 +6,21 @@ class Program
         Queue<int>queue2 = new Queue<int>();
         Queue<int>queue3 = new Queue<int>();
         char Fruit = 'a';
+        while(Fruit == 'a' || Fruit == 'L'||Fruit == 'M'||Fruit == 'S')
+        {
+        Fruit = char.Parse(Console.ReadLine());
+           CheckFruit(Fruit,queue1,queue2,queue3);
+            
+        }
+        FetchNum(queue1,queue2,queue3);
+    } 
+    
+    static void CheckFruit(char Fruit, Queue<int> queue1,Queue<int>queue2,Queue<int>queue3)
+    {
         int L =1;
         int M = 2;
         int S = 3;
-        while(Fruit == 'a' || Fruit == 'L'||Fruit == 'M'||Fruit == 'S')
-        {
-            Fruit = char.Parse(Console.ReadLine());
+         
             if(Fruit == 'L')
             {
                 queue1.Push(L);
@@ -38,14 +47,12 @@ class Program
             {
                 queue1.Push(S);
             }
-            
-        }
+    } 
+    static void FetchNum(Queue<int> queue1,Queue<int>queue2,Queue<int>queue3)
+    {
         for(int n = 0; n< queue1.GetLength();n++)
         {
-        
-            Console.Write("{0}",queue1.Get(n));
-            
-            
+            Console.Write("{0}",queue1.Get(n));   
         }
         for(int n = 0; n< queue2.GetLength();n++)
         {
@@ -55,5 +62,5 @@ class Program
         {
             Console.Write("{0}", queue3.Get(n));
         }
-    }   
+    } 
 }
